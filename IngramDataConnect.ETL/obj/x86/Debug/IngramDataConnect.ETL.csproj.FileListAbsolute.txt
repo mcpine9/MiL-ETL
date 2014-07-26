@@ -1,0 +1,21 @@
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL\bin\Debug\IngramDataConnect.ETL.exe
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL\bin\Debug\IngramDataConnect.ETL.pdb
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL\obj\x86\Debug\IngramDataConnect.ETL.exe
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL\obj\x86\Debug\IngramDataConnect.ETL.pdb
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL\obj\x86\Debug\IngramDataConnect.ETL.csprojResolveAssemblyReference.cache
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL\bin\Debug\CsvHelper.dll
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL\bin\Debug\CsvHelper.pdb
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL\bin\Debug\CsvHelper.xml
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL\bin\Debug\IngramDataConnect.ETL.exe.config
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL\bin\Debug\IngramDataConnect.ETL.exe
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL\bin\Debug\IngramDataConnect.ETL.pdb
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL\bin\Debug\CsvHelper.dll
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL\bin\Debug\StructureMap.dll
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL\bin\Debug\StructureMap.Net4.dll
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL\bin\Debug\CsvHelper.pdb
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL\bin\Debug\CsvHelper.xml
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL\bin\Debug\StructureMap.pdb
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL\bin\Debug\StructureMap.xml
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL\bin\Debug\StructureMap.Net4.pdb
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL\obj\x86\Debug\IngramDataConnect.ETL.exe
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL\obj\x86\Debug\IngramDataConnect.ETL.pdb

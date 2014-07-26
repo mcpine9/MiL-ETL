@@ -1,0 +1,50 @@
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\IngramDataConnect.ETL.Test.dll
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\IngramDataConnect.ETL.Test.pdb
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\ExpectedObjects.dll
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\IngramDataConnect.ETL.exe
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\Moq.dll
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\nunit.framework.dll
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\Should.dll
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\SpecsFor.dll
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\StructureMap.AutoMocking.Moq.dll
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\StructureMap.dll
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\StructureMap.Net4.dll
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\IngramDataConnect.ETL.pdb
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\Moq.xml
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\nunit.framework.xml
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\StructureMap.pdb
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\StructureMap.AutoMocking.Moq.pdb
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\StructureMap.Net4.pdb
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\obj\Debug\IngramDataConnect.ETL.Test.csprojResolveAssemblyReference.cache
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\obj\Debug\IngramDataConnect.ETL.Test.dll
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\obj\Debug\IngramDataConnect.ETL.Test.pdb
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\StructureMap.xml
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\StructureMap.AutoMocking.Moq.xml
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\CsvHelper.dll
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\CsvHelper.pdb
+E:\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\CsvHelper.xml
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\IngramDataConnect.ETL.Test.dll
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\IngramDataConnect.ETL.Test.pdb
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\ExpectedObjects.dll
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\IngramDataConnect.ETL.exe
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\Moq.dll
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\nunit.framework.dll
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\Should.dll
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\SpecsFor.dll
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\StructureMap.AutoMocking.Moq.dll
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\StructureMap.dll
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\StructureMap.Net4.dll
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\CsvHelper.dll
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\IngramDataConnect.ETL.pdb
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\Moq.xml
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\nunit.framework.xml
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\StructureMap.pdb
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\StructureMap.xml
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\StructureMap.AutoMocking.Moq.pdb
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\StructureMap.AutoMocking.Moq.xml
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\StructureMap.Net4.pdb
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\CsvHelper.pdb
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\bin\Debug\CsvHelper.xml
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\obj\Debug\IngramDataConnect.ETL.Test.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\obj\Debug\IngramDataConnect.ETL.Test.dll
+\\vmware-host\Shared Folders\Documents\SVN\myilibrary\Tools\IngramDataConnect.ETL\IngramDataConnect.ETL.Test\obj\Debug\IngramDataConnect.ETL.Test.pdb
